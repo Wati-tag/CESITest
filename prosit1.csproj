@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-	  <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+	<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
