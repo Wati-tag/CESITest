@@ -1,0 +1,2 @@
+C:\Users\Lilian\source\repos\prosit1\bin\Release\netcoreapp3.0\win-x64\publish\prosit1.pdb
+C:\Users\Lilian\source\repos\prosit1\bin\Release\netcoreapp3.0\win-x64\publish\prosit1.exe
