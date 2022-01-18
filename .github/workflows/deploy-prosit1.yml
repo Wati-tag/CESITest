@@ -19,9 +19,7 @@ jobs:
           dotnet-version: 3.0.x
       - run: dotnet restore 
       - run: dotnet build -c Release --no-restore
-<<<<<<< HEAD
-      - run: dotnet publish -c Release --self-contained true -r win-x64 -p:PublishSingleFile=true
-=======
-      - run: dotnet publish -c Release --self-contained -r win-x64 -p:PublishSingleFile=true --no-build
->>>>>>> efb093c1961bd36d0ef58fb2ca767a412145696a
+
+      - run: dotnet publish -c Release --self-contained -r win-x64 -p:PublishSingleFile=true
+
 
